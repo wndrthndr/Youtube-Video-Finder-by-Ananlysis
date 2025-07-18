@@ -1,4 +1,4 @@
-#YouTube Video Finder with Title Analysis
+#YouTube Video Finder with Title Analysis#
 
 This is a smart YouTube automation tool built for the **AI Automations Internship Assignment**. It allows users to search for a topic (in English or Hindi), fetches the top 20 most relevant and recent YouTube videos, and uses **OpenAI GPT** to analyze and recommend the best video based on the title quality.
 
